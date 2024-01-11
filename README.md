@@ -64,7 +64,7 @@ Font Used
 
 - Youtube Channel :- **[coding hub](https://www.youtube.com/channel/UCdDf04FdTHtchARTAiFf6Eg)** 
 - Coffee Shop Web Design Playlist :- **[Link to Playlist](https://www.youtube.com/playlist?list=PLpj8U1KvLX3j8z0fMfu_vJOERCjAxinSJ/)** 
-- Instagram :- **[Swiper Js](https://instagram.com/jpratham243/)**
+- Instagram :- **[jpratham243](https://instagram.com/jpratham243/)**
 
 
 ## Support the Project
