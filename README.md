@@ -34,6 +34,10 @@ Welcome to the ☕ Coffee Shop Web Design project! ☕ This repository contains 
 10. **[Responsive Design](https://www.youtube.com/playlist?list=PLpj8U1KvLX3j8z0fMfu_vJOERCjAxinSJ/)**
     - Ensuring the website is responsive on all devices.
 
+## Design Reference
+
+- **[Design Link](https://www.figma.com/community/file/1328389593435353148/coffeeO)**
+
 ## Color Reference
 
 | Color             | HexaDecimal                                                              |
